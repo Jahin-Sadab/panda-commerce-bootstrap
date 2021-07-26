@@ -1,0 +1,50 @@
+.section-gap {
+    margin-top: 100px;
+}
+
+.first-banner {
+    background-color: #fceae8;
+}
+
+.carousel-items-price {
+    color: #ff136f;
+}
+
+.buy-now-btn {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+
+.buy-now-btn2 {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    padding: 9px 25px;
+    border: none;
+}
+
+#watch-category {
+    background-color: orange;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+
+#bag-category {
+    background-color: orchid;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+
+#shoes-category {
+    background-color: blue;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+
+.subscribe-section {
+    background-color: #fceae8;
+    border-radius: 10px;
+    height: 300px;
+}
